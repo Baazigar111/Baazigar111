@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitkumargupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-gupta-060186285/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wwwankitgupta7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baazigar111)
 
@@ -51,19 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baazigar111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baazigar111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Baazigar111&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -72,14 +59,6 @@
 | [**SkillSage**](https://github.com/Baazigar111) | RAG-based career navigator with semantic job matching | Python · FAISS · HuggingFace · NLP |
 | [**AI Counsellor**](https://github.com/Baazigar111) | Scalable counselling platform with FastAPI microservices | FastAPI · PostgreSQL · SQLAlchemy |
 | [**BookStore**](https://github.com/Baazigar111) | Production-ready MERN e-commerce with JWT auth | MongoDB · Express · React · Node.js |
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Baazigar111/Baazigar111/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
